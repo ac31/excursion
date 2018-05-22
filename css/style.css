@@ -1,13 +1,20 @@
+/* Global selector */
+
 * {
     text-align: center;
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
     color: white;
 }
+
+/* Link selector */
+
 a {
     color: aquamarine;
     decoration: none;
 }
+
+/* H selectors*/
 
 h1 {
     font-size: 50px;
@@ -22,6 +29,8 @@ h3 {
     color: gray;
     font-size: 21px;
 }
+
+/* Class for place an element on the right */
 
 .right {
     text-align: right;
